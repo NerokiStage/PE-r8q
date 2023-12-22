@@ -1,5 +1,3 @@
-![alt text][logo]
-
 ![PixelExperience](https://i.imgur.com/NFjZzFl.png[/img])
 
 # About the project
